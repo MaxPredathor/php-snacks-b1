@@ -12,7 +12,7 @@
         $frasi = explode('.', $testo);
 
         foreach ($frasi as $frase) {
-            if (!empty(trim($frase))) {
+            if (trim($frase)) {
                 echo "<p>$frase.</p> ";
             }
         }
