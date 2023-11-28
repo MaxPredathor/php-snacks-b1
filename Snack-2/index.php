@@ -12,7 +12,7 @@
                 <input type="text" name="name">
 
                 <label for="mail">Mail:</label>
-                <input type="email" name="mail">
+                <input type="text" name="mail">
 
                 <label for="age">Age:</label>
                 <input type="text" name="age">
