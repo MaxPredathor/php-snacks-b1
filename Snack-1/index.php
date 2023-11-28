@@ -20,7 +20,7 @@
                 $puntiCasa = $partita[2];
                 $puntiOspite = $partita[3];
 
-                echo "$squadraCasa - $squadraOspite | $puntiCasa-$puntiOspite ";
+                echo "$squadraCasa - $squadraOspite | $puntiCasa-$puntiOspite  ";
             }
             ?>
         </main>

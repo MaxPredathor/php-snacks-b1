@@ -9,13 +9,13 @@
         <main>
             <form action="verification.php" method="GET">
                 <label for="name">Name:</label>
-                <input type="text" name="name" required>
+                <input type="text" name="name">
 
                 <label for="mail">Mail:</label>
-                <input type="email" name="mail" required>
+                <input type="email" name="mail">
 
                 <label for="age">Age:</label>
-                <input type="text" name="age" required>
+                <input type="text" name="age">
 
                 <button type="submit">Verifica Accesso</button>
             </form>
